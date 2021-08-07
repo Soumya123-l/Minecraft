@@ -1,0 +1,44 @@
+.body_background{
+    background-image:url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg") ;
+    background-position:center;
+    background-size: cover;
+}
+#myCanvas{
+    border-width: 10px;
+    background-color: azure;
+    border-style: ridge;
+}
+h2{
+    background: deeppink;
+    color: mediumvioletred;
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px;
+
+}
+h3{
+    display: inline-block;
+}
+span{
+    font-size: 22 px;
+    color: mintcream;
+}
+a{
+    text-decoration: none;
+    color: oldlace;
+    font-size: 20px;
+}
+#download{
+    background: turquoise;
+    float: left;
+    border-radius: 10px;
+    margin-top: 25px;
+    padding:10px;
+
+}
+#head_info{
+    background: mediumaquamarine;
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
